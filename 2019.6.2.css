@@ -9,7 +9,7 @@
 * @Author: 边晨广
 * @Date:   2019-06-02 20:28:30
 * @Last Modified by:   边晨广
-* @Last Modified time: 2019-06-08 18:10:49
+* @Last Modified time: 2019-06-10 09:43:35
 */
 *{
 	padding:0;
@@ -124,9 +124,9 @@ a{
 .nav ul li:hover{
 	background-color:#fd0304;
 	color:#ffeeee;
-	border-radius: 4px;
+	border-radius:4px;
 }
-.nav ul li a:hover{
+.nav ul li:hover a{
 	background-color:#fd0304;
 	color:#ffeeee;
 }
